@@ -24,3 +24,4 @@ python3 game.py [args]
 ```
 python3 game.py rock paper scissors
 ```
+<img width="1544" alt="Screenshot 2023-10-04 at 15 14 01" src="https://github.com/bekhruzbekRakhmonov/internship-task3/assets/85542200/2a97e6d2-3716-4d8d-9ce2-0cdfb315d281">
